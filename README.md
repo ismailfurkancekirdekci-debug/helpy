@@ -11,8 +11,8 @@ Gereksinimler:
 
 Projeyi İndirme ve Yükleme:
 Powershell kullanarak
--git clone https://github.com/ismailfurkancekirdekci-debug/helpy.git
--cd helpy 
+- git clone https://github.com/ismailfurkancekirdekci-debug/helpy.git
+- cd helpy 
 kodlarını kullanarak yükleyebilirsiniz.
 
 (Önerilen)
