@@ -36,6 +36,6 @@ Sorun Çıkarsa:
 npx react-native start --reset-cache
 
 Notlar:
--Proje boyunca kodun bir kısmında sadece ChatGpt'den yardım alınmıştır.
--Free AI api olarak Gemini 2.5 flash kullanılmıştır.
--Projede duygu analizi ve metin özetleme işlemleri Google Gemini 2.5 Flash modeli kullanılarak gerçekleştirilmiştir. Model API aracılığıyla çağrılmakta ve JSON formatında çıktı üretmektedir. Analiz edilen veriler kullanıcı cihazında tutulmakta ve üçüncü taraf sunuculara kaydedilmemektedir.
+- Proje boyunca kodun bir kısmında sadece ChatGpt'den yardım alınmıştır.
+- Free AI api olarak Gemini 2.5 flash kullanılmıştır.
+- Projede duygu analizi ve metin özetleme işlemleri Google Gemini 2.5 Flash modeli kullanılarak gerçekleştirilmiştir. Model API aracılığıyla çağrılmakta ve JSON formatında çıktı üretmektedir. Analiz edilen veriler kullanıcı cihazında tutulmakta ve üçüncü taraf sunuculara kaydedilmemektedir.
