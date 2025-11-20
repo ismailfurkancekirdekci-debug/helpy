@@ -29,8 +29,8 @@ Uygulamayı Çalıştırma (Android):
 -npx react-native start
 
 Yeni bir terminal açıp uygulamayı başlatın:
--Öncelikle telefonunuzu kabloyla bilgisayara bağlayınız.
--npx react-native run-android komutunu çalıştırarak telefona yükleyin.
+- Öncelikle telefonunuzu kabloyla bilgisayara bağlayınız.
+- npx react-native run-android komutunu çalıştırarak telefona yükleyin.
 
 Sorun Çıkarsa:
 npx react-native start --reset-cache
